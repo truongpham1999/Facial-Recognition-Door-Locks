@@ -1,0 +1,6 @@
+Accuracy for each class: 
+Truong: 0.96
+Phuong: 0.88
+Vuong: 0.76
+Dieu: 0.84
+Accuracy: 0.86
