@@ -1,6 +1,6 @@
 # SMART DOOR LOCKS WITH FACIAL RECOGNITION
 - Link demo: https://youtu.be/z9zenuUKmPk
-This project aims to develop a smart door lock system that uses facial recognition technology to unlock doors. The system is built using a Raspberry Pi 4 kit, Python programming language, OpenCV library, and a pre-trained network model by Davis King on a dataset of approximately 3 million images, using the Labeled Faces in the Wild (LFW) dataset. The system is capable of detecting faces and switching between unlock modes, providing a convenient and secure way to unlock doors.
+- This project aims to develop a smart door lock system that uses facial recognition technology to unlock doors. The system is built using a Raspberry Pi 4 kit, Python programming language, OpenCV library, and a pre-trained network model by Davis King on a dataset of approximately 3 million images, using the Labeled Faces in the Wild (LFW) dataset. The system is capable of detecting faces and switching between unlock modes, providing a convenient and secure way to unlock doors.
 
 ## Features
 * Facial recognition-based door unlocking
